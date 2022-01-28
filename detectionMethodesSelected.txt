@@ -1,0 +1,10 @@
+0018
+0397
+0809
+0018
+0004
+0055
+
+
+
+python3 _PSI_sansinvFusionPubtrim.py -s -all -v -dm 0018 0397 0809 0004 0055 -pubselect -Prot @ListeGenesP1-2-3-4.txt

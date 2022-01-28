@@ -1,0 +1,57 @@
+
+header LIST:
+
+A  'Unique identifier for interactor A',
+B  'Unique identifier for interactor B',
+C  'Alternative identifier for interactor A',
+D  'Alternative identifier for interactor B',
+E  'Aliases for A',
+F  'Aliases for B',
+G  'Interaction detection methods',
+H  'First author',
+I  'Identifier of the publication',
+J  'NCBI Taxonomy identifier for interactor A',
+K  'NCBI Taxonomy identifier for interactor B',
+L  'Interaction types',
+M  'Source databases',
+N  'Interaction identifier(s)',
+O  'Confidence score',
+P  'TAIR',
+Q  'nb DM',
+R  'list of DM',
+S  'nb IT',
+T  'list of IT'
+U  'reverse(rev) or not(-)',
+       
+V  'pub list',
+W  'nb of diff pub'
+
+
+
+
+dico  IDS : 'Unique identifier for interactor A',
+            'Unique identifier for interactor B',
+
+restcol:
+0/A    'Alternative identifier for interactor A',
+1/B    'Alternative identifier for interactor B',
+3/C    'Aliases for A',
+3/D    'Aliases for B',
+4/E    'Interaction detection methods',
+5/F    'First author',
+6/G    'Identifier of the publication',
+7/H    'NCBI Taxonomy identifier for interactor A',
+8/I    'NCBI Taxonomy identifier for interactor B',
+9/J    'Interaction types',
+10/K    'Source databases',
+11/L    'Interaction identifier(s)',
+12/M    'Confidence score',
+13/N    'TAIR',
+14/O    'nb DM',
+15/P    'list of DM',
+16/Q    'nb IT',
+17/R    'list of IT'
+18/S    'reverse(rev) or not(-)',
+        
+19/T	'pub list',
+20/U    'nb of diff pub'
